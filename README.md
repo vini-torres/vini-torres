@@ -1,10 +1,9 @@
 ## Vinícius Tôrres
 Front-end Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Tôrres-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciustorresoficial/)](https://www.linkedin.com/in/viniciustorresoficial/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Tôrres-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciustorresoficial/)](https://www.linkedin.com/in/viniciustorresoficial/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.torresoficial@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.torresoficial@gmail.com)](mailto:vinicius.torresoficial@gmail.com)
-[![Website Baged](https://img.shields.io/badge/Portfólio-00875f?style=flat-badge&logo=About.me&logoColor=white&link=https://https://viniciustorres.netlify.app/)](https:/viniciustorres.netlify.app/)
-
+[![Website Badge](https://img.shields.io/badge/Portfólio-00875f?style=flat-badge&logo=About.me&logoColor=white&link=https://viniciustorres.netlify.app/)](https://viniciustorres.netlify.app/)
 
 Front-end developer specialized in React, with over a year of experience, including six months in a professional environment.
 
